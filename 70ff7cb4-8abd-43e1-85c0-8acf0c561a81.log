@@ -1,0 +1,929 @@
+Waiting for files...
+sandbox_ready
+Tron Duel - Player 2 Start
+Using device: cpu
+Model path: model.pt
+TorchScript model loaded successfully
+INFO:     Started server process [16]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     10.244.9.119:58972 - "GET /health HTTP/1.1" 200 OK
+INFO:     10.244.5.112:36056 - "GET /health HTTP/1.1" 200 OK
+INFO:     10.244.5.112:36056 - "POST /game HTTP/1.1" 200 OK
+[W613 06:05:58.152083176 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:05:58.154577263 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:05:58.224342562 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:05:58.225370976 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:05:58.269452374 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:05:58.273011270 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:05:58.344946849 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:05:58.346237914 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:05:58.424735703 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:05:58.425846762 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:05:59.501489112 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:05:59.502583231 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+INFO:     10.244.9.119:58986 - "GET /health HTTP/1.1" 200 OK
+[W613 06:05:59.575977916 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:05:59.577207824 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:05:59.651771038 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:05:59.652946746 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:05:59.715234612 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:05:59.716507001 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:05:59.793783418 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:05:59.794986954 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:05:59.933292620 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:05:59.934357666 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:05:59.065115781 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:05:59.066382255 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:05:59.165073035 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:05:59.166269251 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:05:59.225268592 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:05:59.226437595 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:05:59.348618108 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:05:59.349906729 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:05:59.446813777 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:05:59.447088263 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:00.509040072 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:00.510186785 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+INFO:     10.244.9.119:58992 - "GET /health HTTP/1.1" 200 OK
+[W613 06:06:00.595219351 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:00.595587945 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:00.649123525 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:00.650381019 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:00.807547835 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:00.808942352 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:00.952583872 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:00.953836729 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:00.996509034 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:00.997768327 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:00.068552638 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:00.068946476 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:00.143034266 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:00.144433731 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:00.206344631 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:00.206806144 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:00.275506049 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:00.276911829 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:00.318637998 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:00.319826143 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:00.451128569 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:00.452344084 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:01.485281828 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:01.486519226 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+INFO:     10.244.9.119:58996 - "GET /health HTTP/1.1" 200 OK
+[W613 06:06:01.609965300 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:01.611510004 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:01.720281403 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:01.721578987 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:01.781674842 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:01.783000609 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:01.869503507 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:01.870735807 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:01.917560654 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:01.918533681 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:01.977656825 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:01.978773148 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:01.110412174 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:01.112853502 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:01.193345817 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:01.194605215 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:01.286461473 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:01.287752166 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:01.371538154 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:01.372856724 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:01.461336572 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:01.462628815 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:02.500279639 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:02.501576040 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+INFO:     10.244.9.119:59008 - "GET /health HTTP/1.1" 200 OK
+[W613 06:06:02.588194277 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:02.589080369 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:02.697139280 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:02.698387033 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:02.776427659 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:02.777649726 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:02.894841146 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:02.896213102 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:02.961148732 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:02.962345105 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:02.057501566 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:02.058584653 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:02.100894154 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:02.102028695 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:02.227394343 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:02.227622021 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:02.309294674 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:02.309543723 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:02.371066639 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:02.371487068 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:02.412947125 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:02.414168317 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:02.472711541 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:02.475831846 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+INFO:     10.244.9.119:59014 - "GET /health HTTP/1.1" 200 OK
+[W613 06:06:03.582845874 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:03.584103891 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:03.661005992 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:03.662198850 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:03.754260139 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:03.755402766 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:03.819126898 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:03.820326173 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:03.883592445 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:03.884785289 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36056 - "POST /move HTTP/1.1" 200 OK
+INFO:     10.244.5.112:36796 - "GET /health HTTP/1.1" 200 OK
+INFO:     10.244.5.112:36796 - "POST /game HTTP/1.1" 200 OK
+[W613 06:06:03.156696972 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:03.157885290 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:03.249162317 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:03.250559985 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:03.365802635 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:03.372126130 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:03.409211332 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:03.410496824 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+INFO:     10.244.9.119:59024 - "GET /health HTTP/1.1" 200 OK
+[W613 06:06:04.541010004 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:04.542027618 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:04.614174463 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:04.615052550 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:04.686650427 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:04.687789462 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:04.735588663 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:04.736863630 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:04.815780005 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:04.816893208 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:04.886878108 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:04.887896100 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:04.983989450 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:04.985193964 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:04.013226340 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:04.014218800 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:04.087320819 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:04.088414452 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:04.176670751 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:04.177779138 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:04.276211242 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:04.277390013 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:04.373911542 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:04.375067840 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:04.420867784 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:04.422003783 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:05.520136349 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:05.521245171 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.9.119:39918 - "GET /health HTTP/1.1" 200 OK
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:05.577087158 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:05.578340169 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:05.654954814 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:05.656250874 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:05.754776158 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:05.755936989 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:05.805893062 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:05.806953860 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:05.868491199 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:05.869551942 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:05.932278490 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:05.933393444 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:05.029696513 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:05.030868062 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:05.147582959 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:05.148038270 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:05.225683854 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:05.226293496 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:05.292977547 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:05.293184333 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:05.393649336 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:05.393861287 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:05.457628934 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:05.457893442 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:06.519890511 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.9.119:39922 - "GET /health HTTP/1.1" 200 OK
+[W613 06:06:06.521711461 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:06.585691244 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:06.586675413 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:06.640106306 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:06.641105327 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:06.781491122 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:06.782411096 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:06.841161349 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:06.842057256 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:06.942300102 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:06.942681982 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:06.982496718 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:06.983141570 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:06.084118047 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:06.084498674 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:06.125087015 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:06.125713346 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:06.169508102 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:06.170083184 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:06.277799189 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:06.278225633 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:06.304612415 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:06.305695189 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:06.377608317 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:06.378179290 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:06.433278534 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:06.433876064 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:06.477168729 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:06.477538629 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+INFO:     10.244.9.119:39926 - "GET /health HTTP/1.1" 200 OK
+[W613 06:06:07.596859489 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:07.597245140 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:07.657224138 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:07.657610327 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:07.738684267 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:07.739001338 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:07.799990654 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:07.800992866 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:07.881256188 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:07.881613558 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:07.976723221 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:07.977030203 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:07.059919645 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:07.060428742 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:07.093826560 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:07.094475641 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:07.182564770 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:07.183177171 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:07.250353799 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:07.251177210 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:07.323086396 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:07.323551624 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:07.385903391 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:07.386231396 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:07.468971239 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:07.469263905 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+INFO:     10.244.9.119:39928 - "GET /health HTTP/1.1" 200 OK
+[W613 06:06:08.588649104 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:08.588993649 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:08.655881874 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:08.656280526 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:08.697663266 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:08.698038021 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:08.774455510 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:08.774853567 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:08.850080424 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:08.850691475 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:08.894460088 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:08.894827493 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:08.975063258 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:08.975760834 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:08.068688535 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:08.069952277 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:08.141346690 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:08.141813272 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:08.199803332 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:08.201042869 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:08.269723241 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:08.271147478 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:08.365226555 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:08.365643839 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:08.408899612 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:08.409385007 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:09.484912371 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:09.485253773 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+INFO:     10.244.9.119:39936 - "GET /health HTTP/1.1" 200 OK
+[W613 06:06:09.562548268 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:09.562940684 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:09.589756202 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:09.590131897 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:09.696422319 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:09.696768578 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:09.726368839 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:09.727576814 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:09.772801383 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:09.773175650 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:09.872642434 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:09.873474520 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:09.914538465 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:09.915499792 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:09.983045375 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:09.983373404 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:09.075157614 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:09.075820012 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:09.105229777 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:09.105952653 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:09.165866979 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:09.166782040 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:09.227387090 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:09.227921363 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:09.269624028 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:09.270780805 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:09.368773617 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:09.369837383 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:09.444756445 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:09.445190502 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:10.482765579 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:10.483572162 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+INFO:     10.244.9.119:39952 - "GET /health HTTP/1.1" 200 OK
+[W613 06:06:10.566129297 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:10.566603743 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:10.597970600 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:10.598301541 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:10.704054700 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:10.704711581 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:10.790051667 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:10.790680607 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:10.841020533 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:10.841645669 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:10.871936929 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:10.872566937 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:10.961556081 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:10.962029490 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:10.001383639 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:10.001754808 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:10.069923213 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:10.070383088 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:10.100498679 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:10.101608740 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:10.173111859 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:10.173416967 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:10.269022052 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:10.269343222 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:10.300554892 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:10.300887384 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:10.363666882 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:10.363983668 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:10.403865127 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:10.404205759 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:10.469502284 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:10.469816318 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+INFO:     10.244.9.119:39956 - "GET /health HTTP/1.1" 200 OK
+[W613 06:06:11.567453794 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:11.567784615 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:11.594457033 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:11.594800203 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:11.667210458 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:11.667541073 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:11.722454488 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:11.722790177 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:11.789093635 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:11.789447360 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:11.872562053 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:11.872842604 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:11.930507742 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:11.930807315 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:11.990664539 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:11.990961795 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:11.077529624 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:11.077840305 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:11.193336411 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:11.193623700 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:11.287815397 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:11.288153671 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:11.365601108 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:11.365948149 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:11.418596299 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:11.418852076 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+INFO:     10.244.9.119:39972 - "GET /health HTTP/1.1" 200 OK
+[W613 06:06:12.560393699 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:12.560647960 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:12.611139409 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:12.611452427 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:12.668640776 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:12.668925392 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:12.779050464 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:12.779699080 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:12.847591076 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:12.848590241 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:12.889461681 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:12.889894235 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:12.012257496 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:12.013051811 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:12.086550336 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:12.086881568 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:12.135779359 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:12.136158749 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:12.194657067 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:12.195032467 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:12.270727011 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:12.271051513 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:12.404819722 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:12.405152933 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:13.484073387 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:13.484424517 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+INFO:     10.244.9.119:39978 - "GET /health HTTP/1.1" 200 OK
+[W613 06:06:13.578329040 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:13.579162241 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:13.669440466 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:13.670001197 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:13.715336564 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:13.715907116 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:13.797978722 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:13.798518724 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:13.847862233 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:13.848172260 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:13.948805522 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:13.949519242 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:13.018284098 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:13.019413894 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:13.085216972 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:13.085921785 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:13.173395782 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:13.174509104 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:13.232624893 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:13.233334963 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:13.305445822 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:13.306201047 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:13.376874581 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:13.377628561 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:13.423764507 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:13.424529213 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:14.499769714 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:14.500534089 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+INFO:     10.244.9.119:39982 - "GET /health HTTP/1.1" 200 OK
+[W613 06:06:14.594411650 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:14.594799179 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:14.673177878 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:14.673960138 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:14.727397605 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:14.728195628 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:14.792911329 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:14.793526980 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:14.869127144 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:14.869992576 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:14.023002367 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:14.024092095 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:14.072466377 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:14.073105846 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:14.153639769 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:14.154733195 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:14.235331505 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:14.236366381 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:14.291904364 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:14.292668529 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:14.378995227 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:14.380269448 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:14.452275694 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:14.453147188 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+INFO:     10.244.9.119:35740 - "GET /health HTTP/1.1" 200 OK
+[W613 06:06:15.535454782 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:15.535775984 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:15.639282032 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:15.639880889 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:15.741312271 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:15.742329153 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:15.797760331 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:15.798237478 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:15.870212706 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:15.870661607 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:15.961082594 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:15.961939991 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:15.001371187 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:15.002162018 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:15.095015253 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:15.095445148 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:15.168293766 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:15.168747956 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:15.222097045 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:15.222381199 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:15.309426544 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:15.311368969 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:15.424569005 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:15.424855397 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:16.503506620 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:16.503797887 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.9.119:35752 - "GET /health HTTP/1.1" 200 OK
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:16.549591919 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:16.552198417 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:16.649163826 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:16.649392176 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:16.717359548 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:16.717586500 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:16.787030623 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:16.787293271 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:16.870906693 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:16.871142408 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:16.908318570 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:16.908563109 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:16.028822141 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:16.029941146 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:16.089648123 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:16.091124572 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+INFO:     10.244.5.112:36796 - "POST /move HTTP/1.1" 200 OK
+INFO:     10.244.5.112:60848 - "GET /health HTTP/1.1" 200 OK
+INFO:     10.244.5.112:60848 - "POST /game HTTP/1.1" 200 OK
+[W613 06:06:16.293603931 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:16.294649981 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:16.378404185 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:16.379723113 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:16.437511872 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:16.448146066 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:17.492541068 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:17.496414096 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+INFO:     10.244.9.119:35760 - "GET /health HTTP/1.1" 200 OK
+[W613 06:06:17.617499765 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:17.619020767 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:17.713455507 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:17.713954938 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:17.789406398 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:17.790790190 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:17.829380279 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:17.830573019 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:17.905188665 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:17.906343271 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:17.971192631 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:17.972315361 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:17.021438998 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:17.022786103 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:17.069362107 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:17.070724365 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:17.149890093 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:17.151137253 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:17.187896435 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:17.188163334 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:17.278395542 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:17.278831328 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:17.345592009 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:17.345894000 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:17.396420081 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:17.396661500 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:18.497538756 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:18.498423329 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+INFO:     10.244.9.119:35762 - "GET /health HTTP/1.1" 200 OK
+[W613 06:06:18.542023968 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:18.543158575 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:18.625262355 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:18.626583017 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:18.661586453 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:18.662901450 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:18.717742723 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:18.718958834 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:18.860370976 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:18.861525510 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:18.945743728 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:18.946921876 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:18.014135259 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:18.015545865 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:18.070284138 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:18.071738066 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:18.109001202 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:18.110388842 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:18.164924018 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:18.166254001 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:18.222122405 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:18.223497631 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:18.303552733 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:18.305629038 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:18.378074671 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:18.379500720 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:18.461134536 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:18.462248110 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+INFO:     10.244.9.119:35764 - "GET /health HTTP/1.1" 200 OK
+[W613 06:06:19.556599129 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:19.556834401 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:19.698279968 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:19.698541027 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:19.813076231 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:19.816450925 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:19.906267587 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:19.920169300 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:19.992303534 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:19.996443916 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:19.082821704 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:19.097400478 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:19.179439366 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:19.180712440 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:19.252571510 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:19.253841824 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:19.302456139 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:19.303816322 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:19.398667619 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:19.404142474 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:20.506742359 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:20.508033820 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+INFO:     10.244.9.119:35766 - "GET /health HTTP/1.1" 200 OK
+[W613 06:06:20.566240023 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:20.567250313 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:20.637616416 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:20.639199527 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:20.686786164 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:20.687974390 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:20.744695046 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:20.746232108 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:20.893776514 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:20.894774481 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:20.949270428 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:20.949861949 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:20.993016494 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:20.994221014 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:20.065260874 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:20.069964436 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:20.136923363 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:20.137941538 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:20.235302253 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:20.236619469 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:20.295586621 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:20.296259494 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:20.383965107 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:20.385155979 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:20.469364742 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:20.470483672 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+INFO:     10.244.9.119:35772 - "GET /health HTTP/1.1" 200 OK
+[W613 06:06:21.533758591 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:21.535129654 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+[W613 06:06:21.653843033 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+[W613 06:06:21.655139752 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+INFO:     10.244.5.112:60848 - "POST /move HTTP/1.1" 200 OK
+INFO:     10.244.9.119:35788 - "GET /health HTTP/1.1" 200 OK
+INFO:     10.244.9.119:35802 - "GET /health HTTP/1.1" 200 OK
+INFO:     10.244.9.119:35806 - "GET /health HTTP/1.1" 200 OK
+INFO:     10.244.9.119:34304 - "GET /health HTTP/1.1" 200 OK
+INFO:     10.244.9.119:34306 - "GET /health HTTP/1.1" 200 OK
+INFO:     10.244.9.119:34308 - "GET /health HTTP/1.1" 200 OK
+INFO:     10.244.9.119:34318 - "GET /health HTTP/1.1" 200 OK
+INFO:     10.244.9.119:34328 - "GET /health HTTP/1.1" 200 OK
+INFO:     10.244.9.119:34342 - "GET /health HTTP/1.1" 200 OK
